@@ -1,5 +1,11 @@
 # 🧠 Causal Inference in Python: DAGs, Bayesian Networks & Propensity Score Matching
 
+
+### Short Description of the project:
+
+> **A practical Causal Inference project implementing Pearl's causal framework, DAGs, Bayesian Networks, backdoor adjustment, propensity score estimation, treatment-control matching, and Average Treatment Effect (ATE) using Python and bnlearn.**
+
+
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
